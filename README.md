@@ -1,6 +1,6 @@
 # PowerPoint Auto Update Total Page
 <h1>POWERPOINT 自動更新總頁數教學</h1>
-<h2>開發環境為PowerPoint2013</h2>
+<h2>測試開發環境為PowerPoint2013</h2>
 <h2>步驟:</h2>
 <ol>
 <li>開啟PPT->檔案->選項->自訂功能區->開發人員。</li>
